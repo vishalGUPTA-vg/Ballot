@@ -1,0 +1,1 @@
+Decentralized voting application where admin add voters in voting list . Admin vote count is 2 and voter vote count is 1
